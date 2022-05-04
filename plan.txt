@@ -1,0 +1,22 @@
+user-input - $stdin.gets.chomp
+conditionals and loops for game to check the lives/ continue game until their is a winner
+
+----------------------------------Classes----------------------------------------------------------------------------
+Players - Player class will init players and lives methods
+
+(takelife/keep track of lives).
+----------------------------------------------------------------------------------------------------------------------------
+Questions - Question class will generate a random # and sum the numbers, methods
+
+(ask player / check answer)
+----------------------------------------------------------------------------------------------------------------------------
+Main - require all the files and start the game with the start method from game class.
+
+----------------------------------------------------------------------------------------------------------------------------
+GAME 
+loops through the game until their is a loser using the methods associated with the players and question classes.
+manages current player.
+
+
+
+
